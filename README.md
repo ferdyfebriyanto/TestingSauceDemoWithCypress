@@ -9,3 +9,5 @@ Anggota Kelompok:
 3. Navis Abdillah
 4. Oudessya Balqist
 5. Sesha Dwi Lestari (19)
+
+Tata Cara Menggunakan Cypress: https://docs.cypress.io/guides/getting-started/writing-your-first-test#Add-a-test-file 

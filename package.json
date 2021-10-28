@@ -1,0 +1,23 @@
+{
+  "name": "testingsaucedemowithcypress",
+  "version": "1.0.0",
+  "description": "Pengujian terhadap website www.saucedemo.com menggunakan tools cypress",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^8.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferdyfebriyanto/TestingSauceDemoWithCypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferdyfebriyanto/TestingSauceDemoWithCypress/issues"
+  },
+  "homepage": "https://github.com/ferdyfebriyanto/TestingSauceDemoWithCypress#readme"
+}
