@@ -31,7 +31,7 @@ describe('Insert Name with combination of words and characters', () => {
             //akses class zip code
         cy.get('#postal-code.input_error.form_input')
             //menulis pada class zip code
-            .type('11234')
+            .type('65141')
             //klik tombol continue
         cy.contains('Continue').click()
     })

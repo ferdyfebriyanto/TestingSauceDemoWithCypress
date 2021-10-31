@@ -8,11 +8,11 @@ describe('Insert Name with combination of words and numbers', () => {
         cy.visit('https://www.saucedemo.com/')
             //akses ke class username
         cy.get('#user-name.input_error.form_input')
-            //menulis suername
+            //menulis username
             .type('standard_user')
             //akses ke class password
         cy.get('#password.input_error.form_input')
-            //metulis password
+            //menulis password
             .type('secret_sauce')
             //klik tombol login
         cy.contains('Login').click()
@@ -23,15 +23,15 @@ describe('Insert Name with combination of words and numbers', () => {
             //akses class first name
         cy.get('#first-name.input_error.form_input')
             //menulis pada first name
-            .type('wawan123')
+            .type('Ferdy123')
             //akses ke class last name
         cy.get('#last-name.input_error.form_input')
-            //metulis pada last name
-            .type('setiawan123')
+            //menulis pada last name
+            .type('Febriyanto123')
             //akses class zip code
         cy.get('#postal-code.input_error.form_input')
-            //metulis pada class zip code
-            .type('11234')
+            //menulis pada class zip code
+            .type('65141')
             //klik tombol continue
         cy.contains('Continue').click()
     })
