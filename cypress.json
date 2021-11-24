@@ -1,12 +1,12 @@
 {
-  "baseUrl": "https://www.saucedemo.com",
-  "ignoreTestFiles": [
-    "**/1-getting-started/*",
-    "**/2-advanced-examples/*"
-  ],
-  "viewPortHeight": 760,
-  "viewPortWidth": 1024,
-  "chromeWebSecurity": false,
-  
-  "projectId": "vor3k4"
+    "baseUrl": "https://www.saucedemo.com",
+    "ignoreTestFiles": [
+        "**/1-getting-started/*",
+        "**/2-advanced-examples/*"
+    ],
+    "viewPortHeight": 760,
+    "viewPortWidth": 1024,
+    "chromeWebSecurity": false,
+
+    "projectId": "vor3k4"
 }
