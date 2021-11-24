@@ -2,8 +2,7 @@
     "baseUrl": "https://www.saucedemo.com",
     "ignoreTestFiles": [
         "**/1-getting-started/*",
-        "**/2-advanced-examples/*",
-        "**/6-ResetAppState-MuhammadNavisA/*"
+        "**/2-advanced-examples/*"
     ],
     "viewPortHeight": 760,
     "viewPortWidth": 1024,
